@@ -12,7 +12,7 @@
 Готовая сборка фрейм ворка Flask-Admin для экспериментов
 
 ## Ссылка на документацию.
-![a link](https://flask-admin.readthedocs.io/en/latest/)
+[Родная документация Flask-Admin](https://flask-admin.readthedocs.io/en/latest/)
 
 ## Installation
 
