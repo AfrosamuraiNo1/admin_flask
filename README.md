@@ -19,9 +19,7 @@
 Установите зависимости.
 ```bash
   python -m pip install -r requirements.txt
-```  
-
-```  
+```    
 Запустить скрипт на Linux.
 ```bash
   python3 app.py
